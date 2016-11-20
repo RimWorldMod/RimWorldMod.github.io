@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mods
+permalink: /modsabout/
 ---
 {% for mod in site.mods %}
  <div class="mod">
