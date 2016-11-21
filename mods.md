@@ -3,11 +3,17 @@ layout: page
 title: Mods
 permalink: /mods/
 ---
-{% for mod in site.mods %}
+ {% for mod in site.mods %}
 
- <div>
- <h2>{{ mod.title }} by **{{ mod.author }}**</h2>
- {{ mod.content }}
- </div> 
- 
+### **{{ mod.title }}** 
+
+by *{{ mod.author }}* - 
+{% for name in site.modders.name %} 
+if {{ site.modders.name }} == {{ mod.author }}
+    {{ site.modders.name }}
+
+{% endfor %}
+
+ > {{mod.content}}
+
  {% endfor %}
