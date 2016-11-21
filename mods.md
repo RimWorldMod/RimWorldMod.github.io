@@ -8,11 +8,8 @@ permalink: /mods/
 ### **{{ mod.title }}** 
 
 by *{{ mod.author }}* - 
-{% for name in site.modders.name %} 
-if {{ site.modders.name }} == {{ mod.author }}
-    {{ site.modders.name }}
-
-{% endfor %}
+{% if site.modders.name == "{{ mod.author }}" %} Github page of {{ site.modders.name }}
+{% endif %}
 
  > {{mod.content}}
 
