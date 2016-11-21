@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Craftable Personal Shield
 author: KapTaiN_KaVerN
 forumThread_url: https://ludeon.com/forums/index.php?topic=25325
