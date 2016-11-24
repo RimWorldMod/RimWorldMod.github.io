@@ -34,8 +34,8 @@
 ###########################
 ###########################
 
-author:
-  name             : "kaptain_kavern
+kaptain_kavern:
+  name             : kaptain_kavern
   avatar           : "/assets/images/k_k.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "France"
