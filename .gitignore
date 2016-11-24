@@ -1,6 +1,7 @@
 *.gem
 *.sublime-project
 *.sublime-workspace
+*.wakatime-project
 .bundle
 .DS_Store
 .jekyll-metadata
