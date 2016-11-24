@@ -112,7 +112,7 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.6.8.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
-    octokit (4.6.1)
+    octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
@@ -134,18 +134,17 @@ GEM
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unicode-display_width (1.1.1)
-    wdm (0.1.1)
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
   github-pages (= 104)
-  jekyll-feed (~> 0.6)
-  wdm (~> 0.1.0)
-
-RUBY VERSION
-   ruby 2.3.1p112
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
+  jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
    1.13.6
