@@ -1,11 +1,15 @@
 ---
-title: "About the uses of Abstracts"
-date:   2016-11-22 10:54:58 +0100
+title: About the uses of Abstracts
+date: '2016-11-24 10:54:58 +0100'
 categories: Coding
-tags: [xml, inheritance, good practise]
+tags:
+  - xml
+  - inheritance
+  - good practise
+published: true
 ---
 
-## To all modders
+# To all modders
 
 Apparently there is bad information regarding xml inheritance.  Specifically regarding abstract definitions.
 
@@ -26,7 +30,11 @@ While the game may "work," these errors can cause problems with *other* mods.  T
 Thank-you for reading this,
 **1000101**
 
+*****
+
 *Edited 12/08/2016*:  Fixed some typographical errors and added information regarding the lack of errors when trying to use undefined abstracts.
+
+____
 
 *Edit 15/11/2016*:
 
@@ -38,8 +46,9 @@ Bogus error reports and disgruntled users can be avoided by simply defining abst
 
 Guarantee the success of your own mods and others by defining every abstract you use.
 
+****
 
 **Skullywag** also posted this boiled-down information as PSAs:
-[[Mods Subforum]](https://ludeon.com/forums/index.php?topic=27432.0)
-[[Help Subforum]](https://ludeon.com/forums/index.php?topic=27433.0)
-[[Releases Subforum]](https://ludeon.com/forums/index.php?topic=27431.0)
+- [[Mods Subforum]](https://ludeon.com/forums/index.php?topic=27432.0)
+- [[Help Subforum]](https://ludeon.com/forums/index.php?topic=27433.0)
+- [[Releases Subforum]](https://ludeon.com/forums/index.php?topic=27431.0)
