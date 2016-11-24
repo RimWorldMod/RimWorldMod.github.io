@@ -1,0 +1,65 @@
+######### EXAMPLE #########
+###########################
+#
+#author:
+#  name             : "[RiMµ]"
+#  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "[RiMµ] : Community of Rimworld Modders that are working together"
+#  location         : "Transcendent worlds"
+#  email            : "rimworld@gmail.com"
+#  uri              :
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         :
+#  foursquare       :
+#  github           : "RimWorldMod"
+#  google_plus      :
+#  keybase          :
+#  instagram        :
+#  lastfm           :
+#  linkedin         :
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+#  steam            :
+#  tumblr           :
+#  twitter          : "rimworldmod"
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
+#  
+###########################
+###########################
+
+author:
+  name             : "kaptain_kavern
+  avatar           : "/assets/images/k_k.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : ""
+  location         : "France"
+  email            : ""
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "kaptain-kavern"
+  google_plus      :
+  keybase          : "kaptain_kavern"
+  instagram        :
+  lastfm           : "kaptain_kavern"
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            : "kaptain84"
+  tumblr           :
+  twitter          : "kaptain_kavern"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :

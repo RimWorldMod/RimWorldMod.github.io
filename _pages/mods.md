@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Mods"
 permalink: /mods/
 ---
