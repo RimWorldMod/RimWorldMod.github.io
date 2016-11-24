@@ -15,7 +15,7 @@ url                      : "https://rimworldmod.github.io" # the base hostname &
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RimWorldMod/RimWorldMod.github.io"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/logo.png" # path of fallback teaser image, e.g. "/assets/images/logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "[RiMµ]"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "[RiMµ] : Community of Rimworld Modders that are working together"
   location         : "Transcendent worlds"
   email            : 
