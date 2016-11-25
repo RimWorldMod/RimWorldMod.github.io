@@ -107,6 +107,11 @@ author:
   xing             :
   youtube          :
 
+# Collections
+collections: 
+  mods: 
+    output: true 
+    permalink: /:collection/:path/ 
 
 # Reading Files
 include:
@@ -252,4 +257,5 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true      
+      author_profile: true
+      
