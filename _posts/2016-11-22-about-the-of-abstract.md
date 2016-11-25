@@ -1,7 +1,7 @@
 ---
 title: About the uses of Abstracts
 date: '2016-11-24 10:54:58 +0100'
-categories: Coding
+categories: coding
 tags:
   - xml
   - inheritance
