@@ -17,7 +17,7 @@ repository               : "RimWorldMod/RimWorldMod.github.io"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/logo.png" # path of fallback teaser image, e.g. "/assets/images/logo.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 180
+words_per_minute         : 220
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
