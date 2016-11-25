@@ -10,7 +10,7 @@ share: true
 header:
   overlay_image: /assets/images/cat_head/code101.jpg
   overlay_filter: 0.5
-  cta_label: '<strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> CODING 101 <i class="fa fa-fw fa-folder-open" aria-hidden="true"></strong>'
+  cta_label: '<strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> CODING 101 <i class="fa fa-fw fa-folder-open" aria-hidden="true"></i></strong>'
   cta_url: "/categories/#coding"  
 excerpt: "Apparently there is bad information [...] regarding abstract definitions.        
 The prevailing thought [...] is that abstracts are inheritable across mods. **This is not true**. *[...] abstract can only be inherited __across files within the mod that defines it__.*"
