@@ -6,7 +6,7 @@
 #  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 #  bio              : "[RiMµ] : Community of Rimworld Modders that are working together"
 #  location         : "Transcendent worlds"
-#  email            : "rimworld@gmail.com"
+#  email            : 
 #  uri              :
 #  bitbucket        :
 #  codepen          :
@@ -14,7 +14,8 @@
 #  flickr           :
 #  facebook         :
 #  foursquare       :
-#  github           : "RimWorldMod"
+#  github           : 
+#  reddit           :
 #  google_plus      :
 #  keybase          :
 #  instagram        :
@@ -25,7 +26,7 @@
 #  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
 #  steam            :
 #  tumblr           :
-#  twitter          : "rimworldmod"
+#  twitter          : 
 #  vine             :
 #  weibo            :
 #  xing             :
@@ -48,6 +49,7 @@ kaptain_kavern:
   facebook         :
   foursquare       :
   github           : "kaptain-kavern"
+  reddit           : "kaptain_kavern"
   google_plus      :
   keybase          : "kaptain_kavern"
   instagram        :

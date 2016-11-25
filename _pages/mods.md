@@ -1,6 +1,10 @@
 ---
-title: "Mods"
+layout: splash
+classes:
+  - landing
+  - dark-theme
 permalink: /mods/
+title: "Mods"
 ---
  {% for mod in site.mods %}
 ### **[{{ mod.title }}]({{mod.title | slugify }})** 

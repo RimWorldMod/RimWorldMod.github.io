@@ -66,6 +66,12 @@
           Twitter
         </a></li>
       {% endif %}
+      {% if author.reddit %}
+        <li><a href="https:///www.reddit.com/user/{{ author.reddit }}" itemprop="sameAs">
+          <i class="fa fa-fw fa-reddit-square" aria-hidden="true"></i> 
+          Reddit
+        </a></li>
+      {% endif %}      
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
           <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> 
