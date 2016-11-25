@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Hand me That Brick
 author: Dingo
 forumThread_url: https://ludeon.com/forums/index.php?topic=26077
