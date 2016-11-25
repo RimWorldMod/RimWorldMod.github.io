@@ -8,7 +8,7 @@ tags:
   - best practice
 share: true
 header:
-  overlay_image: /assets/images/cat_head/code101.jpg
+  overlay_image: /assets/images/cat_head/code101.svg
   overlay_filter: 0.5
   cta_label: '<strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> CODING 101 <i class="fa fa-fw fa-folder-open" aria-hidden="true"></i></strong>'
   cta_url: "/categories/#coding"  
